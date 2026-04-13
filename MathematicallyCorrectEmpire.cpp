@@ -64,6 +64,8 @@ int main()
 	Settlement::set_up_unique(4);
 
 	cout << Settlement::total_prod() << endl; //17130
+
+	// Testing version control
 	
 
 	Settlement::output_map();
