@@ -1,0 +1,20 @@
+﻿0,Fossbarrow,B,Pinara HighSilvermere,Resource,Resource,Resource,Resource,Resource,Resource
+1,Hawkstone,M,Uwendale HighSilvermere,Resource,Resource,Resource,Resource,Resource,Resource
+2,Uwendale,M,Hawkstone HighSilvermere Meltridge,Resource,Resource,Resource,Resource,Resource,Resource
+3,BrennTor,M,Graygate,Resource,Resource,Resource,Resource,Resource,Resource
+4,Pinara,M,Fossbarrow HighSilvermere Dawnhold,Quartermaster,Resource,Resource,Resource,Resource,Resource
+5,HighSilvermere,M,Fossbarrow Hawkstone Uwendale Jandelle GreatCity Pinara,Quartermaster,Aviary,Resource,Resource,Resource,Resource
+6,Meltridge,B,Uwendale Jandelle Graygate,Resource,Resource,Resource,Resource,Resource,Resource
+7,Graygate,H,Meltridge BrennTor Cloudfield,Quartermaster,Aviary,Resource,Resource,Resource,Resource
+8,GreatCity,C,HighSilvermere Tylburne Dawnhold,Resource,Resource,Barracks,Resource,Resource,Resource
+9,Jandelle,H,HighSilvermere Meltridge Hayneath Cloudfield Tylburne,Resource,Aviary,Resource,Resource,Resource,Resource
+10,Hayneath,H,Jandelle Cloudfield,Resource,Resource,Resource,Resource,Resource,Resource
+11,Cloudfield,B,Jandelle Hayneath Graygate Wrimvale Terbisia,Quartermaster,Resource,Barracks,Resource,Resource,Resource
+12,Wrimvale,B,Cloudfield Terbisia,Resource,Resource,Resource,Resource,Resource,Resource
+13,Tylburne,H,GreatCity Jandelle Brookhollow,Resource,Resource,Resource,Resource,Resource,Resource
+14,Dawnhold,B,Pinara GreatCity Vaskasia,Resource,Resource,Resource,Resource,Resource,Resource
+15,Vaskasia,H,Dawnhold Brookhollow Evenmoor,Resource,Aviary,Resource,Resource,Resource,Resource
+16,Brookhollow,H,Tylburne Terbisia Evenmoor Vaskasia,Quartermaster,Resource,Resource,Resource,Resource,Resource
+17,Terbisia,B,Brookhollow Cloudfield Wrimvale Wrenwall,Quartermaster,Aviary,Resource,Resource,Resource,Resource
+18,Evenmoor,M,Vaskasia Brookhollow,Resource,Resource,Barracks,Resource,Resource,Resource
+19,Wrenwall,M,Terbisia,Resource,Resource,Resource,Resource,Resource,Resource
