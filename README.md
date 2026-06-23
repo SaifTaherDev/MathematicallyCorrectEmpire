@@ -14,7 +14,7 @@
 
 ## Overview
 
-> The inherent complexity of resource management and build order optimization in like Demacia Rising often leads to suboptimal strategies, wasted resources, and slower progress. Players struggle to identify the truly "best" path amidst numerous variables and dependencies, relying on intuition or trial-and-error, which can significantly hinder their in-game potential and competitiveness.
+The inherent complexity of resource management and build order optimization in like Demacia Rising often leads to suboptimal strategies, wasted resources, and slower progress. Players struggle to identify the truly "best" path amidst numerous variables and dependencies, relying on intuition or trial-and-error, which can significantly hinder their in-game potential and competitiveness.
 
 **MathematicallyCorrectEmpire** provides a data-driven, exhaustive, and greedy search framework to systematically explore and identify the highest-yielding build orders and resource allocation strategies. It uses brute-force and greedy optimization to find the best distribution of combat structures (such as Quartermasters and Aviary) and econ structures (such as Marketplaces and Academies).
 ---
